@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋🏽, I'm Flynn</h1>
-<h3 align="center">Welcome! I'm a self-taught software developer seeking a career in technology.</h3>
 <p align="center">
   <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
