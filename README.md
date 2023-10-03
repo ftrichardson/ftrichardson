@@ -3,7 +3,7 @@
 <img align="left" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
 
 
-👨‍💻 All of my projects are available <a href="https://ftrichardson.github.io/portfolio/">here</a>
+👨‍💻 All of my projects/previous coursework are available <a href="https://ftrichardson.github.io/portfolio/">here</a>
 
 🌱 I’m currently learning <b>MERN stack; Next.js; C#
 
