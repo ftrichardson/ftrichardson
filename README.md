@@ -5,9 +5,9 @@
 
 👨‍💻 All of my projects/previous coursework are available <a href="https://ftrichardson.github.io/portfolio/">here</a>
 
-🌱 I’m currently learning <b>MERN stack; Next.js; C#
+🌱 I’m currently learning <b>MERN stack; Next.js; C#<b>
 
-💬 Ask me about <b>AI/ML; Django
+💬 Ask me about <b>AI/ML; Django<b>
 <br>
 <br>
 <br>
