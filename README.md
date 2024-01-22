@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽 I'm Flynn!</h1>
-<p align="center">Welcome! I'm a former journalist taking a career leap!</p>
+<p align="center">Welcome! I'm a former copy editor taking a career leap!</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://ftrichardson.github.io/portfolio/">here</a></p>
 
 <p align="center">
