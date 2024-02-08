@@ -6,6 +6,5 @@ Welcome to my GitHub! I’m a self-taught software engineer determined to make a
 
 🎶 My most recently completed project is [Aux Cord](https://aux-cord.onrender.com/). <br>
 🌱 I am currently working on [Habit Coach](https://habit-coach.netlify.app/).<br>
-<br>
-<br>
-<h4>👨‍💻 Check out my website <a href="https://ftrichardson.github.io/portfolio/">here</a>!</h4>
+👨‍💻 <b>Check out my website <a href="https://ftrichardson.github.io/portfolio/">here</a></b>!
+
