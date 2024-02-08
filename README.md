@@ -3,5 +3,5 @@ Welcome to my GitHub! I’m Flynn 👋🏽, a self-taught software engineer dete
 👨‍💻/💬 <b>Check out my website/contact me <a href="https://ftrichardson.github.io/portfolio/">here</a></b>!<br>
 🎸 My most recently completed project is [Aux Cord](https://aux-cord.onrender.com/) (connection via music).<br>
 🌱 I am currently working on [Habit Coach](https://habit-coach.netlify.app/). (connection via habit-building).<br>
-🔭 I would like to build a quiz app that socializes the trivia-learning experience while waiting in long lines (connection via knowledge enrichment)!
+🔭 I would like to build a quiz app that socializes the trivia-learning experience while waiting in long lines (connection via knowledge)!
 
