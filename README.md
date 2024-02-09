@@ -1,5 +1,5 @@
 <h2 align="center">Welcome! 👋🏽</h2>
-<img alt="Coder GIF" height="180" width="280" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img alt="Coder GIF" height="180" width="280" align="left" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 I’m Flynn, a self-taught software engineer determined to make a career leap from journalism to technology! Although I loved my time in journalism, I discovered last year that I love programming even more — from the frustration I feel when stuck on a coding problem, to the euphoria I experience after successfully deploying a full-stack application. But most importantly, I love that code can empower mere individuals to create significant social impact, and I am passionate about using code to build programs that help <b>foster belonging</b> (a common theme among my projects heretofore). <br>
 <br>
 <br>
