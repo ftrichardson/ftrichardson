@@ -1,6 +1,6 @@
 <h2>Welcome! 👋🏽</h2>
 
-I’m Flynn, a self-taught software engineer determined to make a career leap from journalism to technology! Although I loved my time in journalism (and will never stop writing!), I discovered that I love programming even more — from the frustration I endure when stuck on a coding problem, to the euphoria I experience after successfully deploying a full-stack application! But most importantly, I love that code empowers us to create significant social impact, and I am passionate about using code to build programs that help <b>foster belonging</b> (a common theme among my projects heretofore)! <br>
+I’m Flynn, a self-taught software engineer determined to make a career leap from journalism to technology! Although I loved my time in journalism, I discovered that I love programming even more — from the frustration I endure when stuck on a coding problem, to the euphoria I experience after successfully deploying a full-stack application! But most importantly, I love that code empowers mere individuals to generate significant social impact, and I am passionate about using code to build programs that help <b>foster belonging</b> (a common theme among my projects heretofore)! <br>
 <br>
 👨‍💻/💬 <b>Check out my website/contact me <a href="https://ftrichardson.github.io/portfolio/">here</a></b>!<br>
 🎸 My most recently completed project is [Aux Cord](https://aux-cord.onrender.com/) (connection via music).<br>
