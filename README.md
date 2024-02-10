@@ -5,7 +5,6 @@
 
 ![FLYNN RICHARDSON](https://github.com/ftrichardson/ftrichardson/assets/141296571/571b9fbb-6bb3-47ae-92d9-7f9d67fef15f)
 <br>
-<br>
 <p align="center">
 👨‍💻/💬 <b>Check out my website/contact me <a href="https://ftrichardson.github.io/portfolio/">here</a></b>!<br>
 </p>
