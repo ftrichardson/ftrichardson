@@ -8,15 +8,3 @@
 <p align="center">
 👨‍💻/💬 <b>Check out my website/contact me <a href="https://ftrichardson.github.io/portfolio/">here</a></b>!<br>
 </p>
-
-<p align="center">
-🎸 My most recently finished project is <a href="https://aux-cord.onrender.com/">Aux Cord</a> (<b>human connection</b> via music).<br>
-</p>
-
-<p align="center">
-🌱 I am currently working on <a href="https://habit-coach.netlify.app/">Habit Coach</a> (<b>human connection</b> via habit-building).<br>
-</p>
-
-<p align="center">
-🔭 I would like to next build a quiz app (<b>human connection</b> via knowledge)!
-</p>
