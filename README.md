@@ -6,5 +6,5 @@
 ![FLYNN RICHARDSON](https://github.com/ftrichardson/ftrichardson/assets/141296571/571b9fbb-6bb3-47ae-92d9-7f9d67fef15f)
 <br>
 <p align="center">
-👨‍💻/💬 Personal website is currently under construction. <b>Contact me at flynnrichardson21@gmail.com with any inquiries</b>!<br>
+👨‍💻/💬 <b>Contact me at flynnrichardson21@gmail.com with any inquiries</b>!<br>
 </p>
